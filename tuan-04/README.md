@@ -13,6 +13,8 @@ Bài kiểm thử Smoke Test sử dụng Selenium để kiểm tra trang web The
 
 ## 3. Cách cài đặt Pytest và Selenium
 
+**Lưu ý:** phải kích hoạt môi trường ảo trước khi cài thư viện hoặc chạy `pytest`.
+
 **– Tạo và kích hoạt môi trường ảo**:
 
 ```powershell
