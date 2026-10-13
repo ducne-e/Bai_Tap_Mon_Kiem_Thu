@@ -1,4 +1,4 @@
-#- Tuần 5
+# Tuần 5
 
 ## Kiến thức
 - Biết cách kiểm tra cấu trúc HTML/DOM của trang web bằng Chrome DevTools. Xác định chính xác các phần tử HTML mà Selenium cần thao tác, chẳng hạn như ô nhập username, ô nhập password và nút Login
